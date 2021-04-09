@@ -3,4 +3,4 @@ const require = "citizenfx/server"
 
 
 import '.sql'
-
+load '.sql'
